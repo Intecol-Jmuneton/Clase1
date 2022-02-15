@@ -1,5 +1,3 @@
 Hola soy yo y este es mi primera vez en git
 
 Trabajo desde intecol desde hace 6 años
-
-estoy en la rama de pruebas
